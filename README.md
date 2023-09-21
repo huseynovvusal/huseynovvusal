@@ -13,7 +13,7 @@
 
 <div/>
 
-<h3>⚡ My Skills<h3/>
+### ⚡ My Skills
 
 <br/>
 
