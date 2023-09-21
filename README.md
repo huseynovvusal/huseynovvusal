@@ -2,11 +2,11 @@
 
 <br/>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=huseynovvusal&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false)<br/><br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=huseynovvusal&theme=vue-dark&hide_border=false)<br/><br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=huseynovvusal&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
 
+![](https://github-readme-stats.vercel.app/api?username=huseynovvusal&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=huseynovvusal&theme=vue-dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=huseynovvusal&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
+---
 <h3>⚡ My Skills<h3/>
 
 <br/>
