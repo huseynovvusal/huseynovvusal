@@ -1,4 +1,4 @@
-<h1 align="center">Hi! I am Vusal Huseynov 🚀<br/>I'm a young full-stack programmer from Azerbaijan</h1>
+<h1 align="center">Hi There! I'm Vusal Huseynov 🚀<br/>A young full-stack programmer from Azerbaijan</h1>
 
 <br/>
 
