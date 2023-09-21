@@ -2,6 +2,10 @@
 
 <br/>
 
+![huseynovvusal's Stats](https://github-readme-stats.vercel.app/api?username=huseynovvusal&theme=vue-dark&show_icons=true&hide_border=false&count_private=false)
+
+![huseynovvusal's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=huseynovvusal&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
+
 <h3>⚡ My Skills<h3/>
 
 <br/>
