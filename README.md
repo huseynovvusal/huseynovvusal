@@ -2,10 +2,6 @@
 
 <br/>
 
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=huseynovvusal&label=Profile%20Views&color=12&icon=5&pretty=true" />
-</a>
-
 <br/>
 
 <h3>⚡ My Skills<h3/>
@@ -18,4 +14,6 @@
 
 <br/>
 
-
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=huseynovvusal&label=Profile%20Views&color=12&icon=5&pretty=true" />
+</a>
