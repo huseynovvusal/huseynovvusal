@@ -2,8 +2,6 @@
 
 <br/>
 
-<br/>
-
 <h3>⚡ My Skills<h3/>
 
 <br/>
