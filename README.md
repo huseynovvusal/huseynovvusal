@@ -2,9 +2,11 @@
 
 <br/>
 
+<div style="display:flex; flex-wrap:wrap;">
 ![huseynovvusal's Stats](https://github-readme-stats.vercel.app/api?username=huseynovvusal&theme=vue-dark&show_icons=true&hide_border=false&count_private=false)
 
-![huseynovvusal's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=huseynovvusal&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
+![huseynovvusal's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=huseynovvusal&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)  
+<div/>
 
 <h3>⚡ My Skills<h3/>
 
