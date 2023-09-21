@@ -10,6 +10,8 @@
 
 <h3>⚡ My Skills<h3/>
 
+<br/>
+
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,threejs,js,ts,cs,git,github,unity,vercel,nextjs,react,vite,firebase,nodejs,express,mongodb,figma,nginx," />
