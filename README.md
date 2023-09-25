@@ -1,7 +1,6 @@
 <h1 align="center">👋🏼 Hi There!</h1>
 
 <br/>
-<br/>
 
 <img src="/github-banner.jpg" width="100%" />
 
