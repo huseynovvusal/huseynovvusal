@@ -2,7 +2,7 @@
 
 <br/>
 
-<img src="/github-banner.jpg" width="100%" />
+<img style="border-radius:16px;" src="/github-banner.jpg" alt="Vusal Huseynov" width="100%" />
 
 <br/>
 
