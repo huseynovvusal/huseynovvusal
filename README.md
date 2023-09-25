@@ -1,6 +1,8 @@
-<img src="/github-banner.jpg" width="100%" />
-
 <h1 align="center">👋🏼 Hi There!</h1>
+
+<br/>
+
+<img src="/github-banner.jpg" width="100%" />
 
 <br/>
 
