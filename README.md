@@ -1,5 +1,7 @@
 <h1 align="center">Hi There!<br/> I'm Vusal Huseynov<br/>A young full-stack programmer from Azerbaijan 🚀</h1>
 
+<img src="/github-banner.jpg" />
+
 <br/>
 
 <div align="center">
