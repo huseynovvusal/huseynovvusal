@@ -6,6 +6,20 @@
 
 <br/>
 
+<div id="badges">
+  <a href="https://youtube.com/@huseynovvusal">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="https://facebook.com/codervusal">
+    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://linkedin.com/in/huseynovvusal">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
+
+<br/>
+
 <div align="center">
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=huseynovvusal&theme=vue-dark&hide_border=false)<br/><br/>
