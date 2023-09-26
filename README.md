@@ -1,3 +1,7 @@
+<img src="/github-banner.jpg" alt="Vusal Huseynov" width="100%" />
+
+<br/>
+
 <div id="badges">
   <a href="https://youtube.com/@huseynovvusal">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
@@ -13,10 +17,6 @@
 <br/>
 
 <h1 align="center">👋🏼 Hi There!</h1>
-
-<br/>
-
-<img src="/github-banner.jpg" alt="Vusal Huseynov" width="100%" />
 
 <br/>
 
