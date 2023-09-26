@@ -20,7 +20,9 @@
 
 <br/>
 
-### ⚡ My Skills
+## ⚡ My Skills
+
+<br/>
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,threejs,js,ts,cs,python,git,github,unity,vercel,nextjs,react,vite,firebase,nodejs,express,mongodb,figma,nginx" />
