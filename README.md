@@ -16,10 +16,6 @@
 
 <br/>
 
-<h1 align="center">👋🏼 Hi There!</h1>
-
-<br/>
-
 <h3>⚡ My Skills</h3>
 
 <br/>
