@@ -20,7 +20,7 @@
 
 <br/>
 
-## ⚡ My Skills
+<h3>⚡ My Skills</h3>
 
 <br/>
 
