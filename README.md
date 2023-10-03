@@ -31,7 +31,7 @@
 <br/>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,numpy,django,sqlite" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,django,sqlite" />
 <p/>
 
 [![](https://visitcount.itsvg.in/api?id=huseynovvusal&icon=0&color=0)](https://visitcount.itsvg.in)
