@@ -26,7 +26,7 @@
 
 <br/>
 
-<h3>⚡ I'm interested in</h3>
+<h3>🧠 I'm interested in</h3>
 
 <br/>
 
