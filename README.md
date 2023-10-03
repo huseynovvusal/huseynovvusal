@@ -14,8 +14,6 @@
   </a>
 </div>
 
-<br/>
-
 <h3>⚡ My Skills</h3>
 
 <br/>
@@ -33,5 +31,7 @@
 <p>
   <img src="https://skillicons.dev/icons?i=tensorflow,django,sqlite" />
 <p/>
+
+<br/>
 
 [![](https://visitcount.itsvg.in/api?id=huseynovvusal&icon=0&color=0)](https://visitcount.itsvg.in)
