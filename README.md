@@ -16,7 +16,7 @@
 
 <h3>⚡ My Skills</h3>
 
-<br/>
+
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,threejs,js,ts,cs,python,git,github,unity,vercel,nextjs,react,vite,firebase,nodejs,express,mongodb,figma,nginx,linux" />
@@ -26,7 +26,6 @@
 
 <h3>🧠 I'm interested in</h3>
 
-<br/>
 
 <p>
   <img src="https://skillicons.dev/icons?i=tensorflow,django,sqlite" />
