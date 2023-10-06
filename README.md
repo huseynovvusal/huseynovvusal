@@ -28,7 +28,7 @@
 
 
 <p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,django,sqlite" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,django,sqlite,postgresql" />
 <p/>
 
 <br/>
