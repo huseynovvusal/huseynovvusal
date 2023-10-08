@@ -14,8 +14,9 @@
   </a>
 </div>
 
-<h3>⚡ My Skills</h3>
+<br/>
 
+<h3>⚡ My Skills</h3>
 
 
 <p>
