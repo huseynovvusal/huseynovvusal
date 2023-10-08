@@ -14,7 +14,6 @@
   </a>
 </div>
 
-<br/>
 
 <h3>⚡ My Skills</h3>
 
@@ -22,8 +21,6 @@
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,threejs,js,ts,cs,python,git,github,unity,vercel,nextjs,react,vite,firebase,nodejs,express,mongodb,figma,nginx,linux" />
 <p/>
-
-<br/>
 
 
 <h3>🧠 I'm Interested In</h3>
