@@ -6,5 +6,5 @@
 
 ~ Social Links
 
-> YouTube -> [Youtube](https://youtube.com/@huseynovvusal)
+> YouTube -> [https://youtube.com/@huseynovvusal](https://youtube.com/@huseynovvusal)
 
