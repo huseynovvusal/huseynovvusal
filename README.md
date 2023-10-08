@@ -33,3 +33,14 @@
 <br/>
 
 [![](https://visitcount.itsvg.in/api?id=huseynovvusal&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
+~ About Me
+
+> I am a young software developer and instructor on Youtube. I am mostly experienced in Web development. Also, AI is one of my enthusiasts.
+
+~ Social Links
+
+> [![](Youtube)](https://youtube.com/@huseynovvusal)
+
+
