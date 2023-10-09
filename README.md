@@ -8,6 +8,6 @@
 
 > my youtube channel -> [https://youtube.com/@huseynovvusal](https://youtube.com/@huseynovvusal)
 
-> facebook -> [https://facebook.com/@codervusal](https://facebook.com/codervusal)
+> my facebook profile -> [https://facebook.com/@codervusal](https://facebook.com/codervusal)
 
 
