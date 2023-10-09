@@ -6,8 +6,8 @@
 
 ~ Social Links
 
-> YouTube -> [https://youtube.com/@huseynovvusal](https://youtube.com/@huseynovvusal)
+> my youtube channel -> [https://youtube.com/@huseynovvusal](https://youtube.com/@huseynovvusal)
 
-> Facebook -> [https://facebook.com/@codervusal](https://facebook.com/codervusal)
+> facebook -> [https://facebook.com/@codervusal](https://facebook.com/codervusal)
 
 
