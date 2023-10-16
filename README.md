@@ -3,9 +3,9 @@
 
 ~ About Me
 
-> I am a young software developer and instructor on Youtube. I am mostly experienced in Web development. Also, AI is one of my enthusiasts.
+> ⚡ I am a young software developer and instructor on Youtube. I am mostly experienced in Web development. Also, AI is one of my enthusiasts.
 
-~ Social Links
+~ 🔗 Social Links
 
 > my youtube channel -> [https://youtube.com/@huseynovvusal](https://youtube.com/@huseynovvusal)
 
