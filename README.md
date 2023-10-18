@@ -16,6 +16,3 @@
 
 > my play store profile -> [https://play.google.com/huseynovvusal](https://play.google.com/store/apps/dev?id=6432003078046030778)
 
-
-
-
