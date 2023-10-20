@@ -1,4 +1,10 @@
-<img src="/github-banner.jpg" alt="Vusal Huseynov" width="100%" style="border-radius:16px;" />
+<style>
+img{
+border-radius:16px;
+}
+</style>
+
+<img src="/github-banner.jpg" alt="Vusal Huseynov" width="100%" />
 
 
 ~ ⚡ About Me
