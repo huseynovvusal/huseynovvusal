@@ -2,7 +2,7 @@
 img{
 border-radius:16px;
 }
-</style>
+<style>
 
 <img src="/github-banner.jpg" alt="Vusal Huseynov" width="100%" />
 
