@@ -1,4 +1,4 @@
-<img src="/github-banner.jpg" alt="Vusal Huseynov" width="100%" />
+<img src="/github-banner.jpg" alt="Vusal Huseynov" width="100%" style="border-radius:16px;" />
 
 
 ~ ⚡ About Me
