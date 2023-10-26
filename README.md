@@ -12,5 +12,4 @@
 
 > my twitter (X) profile -> [https://twitter.com/codervusal](https://twitter.com/codervusal)
 
-
 > my play store profile -> [https://play.google.com/huseynovvusal](https://play.google.com/store/apps/dev?id=6432003078046030778)
