@@ -6,10 +6,10 @@
 
 ~ 🔗 Social Links
 
-> my youtube channel -> [https://youtube.com/@huseynovvusal](https://youtube.com/@huseynovvusal)
+> Youtube -> [https://youtube.com/@huseynovvusal](https://youtube.com/@huseynovvusal)
 
-> my facebook profile -> [https://facebook.com/codervusal](https://facebook.com/codervusal)
+> Facebook -> [https://facebook.com/codervusal](https://facebook.com/codervusal)
 
-> my twitter (X) profile -> [https://twitter.com/codervusal](https://twitter.com/codervusal)
+> X -> [https://twitter.com/codervusal](https://twitter.com/codervusal)
 
-> my play store profile -> [https://play.google.com/huseynovvusal](https://play.google.com/store/apps/dev?id=6432003078046030778)
+> Play Store -> [https://play.google.com/huseynovvusal](https://play.google.com/store/apps/dev?id=6432003078046030778)
