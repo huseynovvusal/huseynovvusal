@@ -1,6 +1,6 @@
 ~ ⚡ About Me
 
-> I am a young software developer and instructor on Youtube. I am mostly experienced in Web development. Also, Android development is one of my enthusiasts.
+> I am a young software developer and instructor on Youtube. I am mostly experienced in web development (MERN stack). Also, Android development is one of my enthusiasts.
 
 ~ 🔗 Social Links
 
