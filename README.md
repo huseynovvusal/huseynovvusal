@@ -15,3 +15,5 @@
 > Stack Overflow -> [https://stackoverflow.com/users/26393741/vusal-huseynov](https://stackoverflow.com/users/26393741/vusal-huseynov)
 
 > Leetcode -> [https://leetcode.com/u/huseynovvusal/](https://leetcode.com/u/huseynovvusal/)
+
+> LinkedIn -> [https://www.linkedin.com/in/huseynovvusal/](https://www.linkedin.com/in/huseynovvusal/)
