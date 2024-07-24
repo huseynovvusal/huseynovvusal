@@ -1,6 +1,6 @@
 ### ⚡ About Me
 
-> I am a young software developer and instructor on YouTube. I am mostly experienced in web development (MERN stack). Also, Android development is one of my enthusiasts.
+I am a young software developer and instructor on YouTube. I am mostly experienced in web development (MERN stack). Also, Android development is one of my enthusiasts.
 
 ### 🔗 Social Links
 
@@ -11,3 +11,4 @@
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/26393741/vusal-huseynov)
 [![Leetcode](https://img.shields.io/badge/Leetcode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/huseynovvusal/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/huseynovvusal/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/huseynovvusal)
