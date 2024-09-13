@@ -1,6 +1,6 @@
 ### ⚡ About Me
 
-I am a young software developer and instructor on YouTube. I am mostly experienced in web development (MERN stack). Also, Android development is one of my enthusiasts.
+I am a young software developer and instructor on YouTube. I am mostly experienced in web development (MERN stack). Also, Android development is one of my enthusiasts. I am currently studying Information Security in Baku Higher Oil School (BHOS).
 
 ### 🔗 Social Links
 
