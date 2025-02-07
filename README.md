@@ -1,6 +1,6 @@
 ### ⚡ About Me
 
-I am a software developer majoring in Information Security and instructor on YouTube. I am experienced in web development. Also, Android development is one of my enthusiasts. 
+I am a software developer majoring in Information Security and instructor on YouTube. I am experienced in web development. Also, AI is one of my enthusiasts. 
 
 ### 🔗 Social Links
 
