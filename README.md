@@ -1,6 +1,8 @@
 ### ⚡ About Me
 
-I am a software developer majoring in Information Security and instructor on YouTube. I am experienced in web development. Also, AI is one of my enthusiasts. 
+Self-taught full-stack developer and instructor with 4+ years of experience in software development, beginning at the age of 13. Skilled in mobile and web development, specializing in React Native, Node.js, and React.js, with a proven ability to deliver scalable and user-focused solutions. 
+
+As a bronze medalist in the Republic Informatics Olympiad (2023–2024 season), I have a strong foundation in algorithms and problem-solving. Passionate about empowering others through education, I teach programming and software development through Udemy and YouTube, sharing concise and impactful content.
 
 ### 🔗 Social Links
 
