@@ -4,6 +4,8 @@ I am a self-taught full-stack developer and instructor with 5 years of experienc
 
 As a bronze medalist in the Republic Informatics Olympiad (2023–2024 season), I have a strong foundation in algorithms and problem-solving. Passionate about empowering others through education, I teach programming and software development through Udemy and YouTube, sharing concise and impactful content.
 
+---
+
 ### 🔗 Social Links
 
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://huseynovvusal.com)
@@ -15,6 +17,8 @@ As a bronze medalist in the Republic Informatics Olympiad (2023–2024 season), 
 [![Leetcode](https://img.shields.io/badge/Leetcode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/huseynovvusal/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/huseynovvusal/)
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/huseynovvusal)
+
+---
 
 ### 🛠 Tech Stack
 
