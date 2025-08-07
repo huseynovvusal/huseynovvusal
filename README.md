@@ -22,4 +22,4 @@ As a bronze medalist in the Republic Informatics Olympiad (2023–2024 season), 
 
 ### 🛠 Tech Stack
 
-<img src="https://skillicons.dev/icons?i=python,cpp,typescript,java,react,nodejs,expressjs,spring,mongodb,firebase,nestjs,postgresql,graphql,docker,kafka,rabbitmq,elasticsearch,jest,grpc" />
+<img src="https://skills.syvixor.com/api/icons?i=python,cpp,typescript,java,react,reactnative,nodejs,expressjs,springboot,mongodb,firebase,nestjs,postgresql,graphql,docker,kafka,rabbitmq,elasticsearch,jest,grpc" />
