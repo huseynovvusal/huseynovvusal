@@ -39,4 +39,5 @@ As a bronze medalist in the Republic Informatics Olympiad (2023–2024 season), 
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-0D5C9D?style=for-the-badge)
 
