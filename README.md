@@ -41,6 +41,7 @@ As a bronze medalist in the **Republican Olympiad in Informatics (2023–2024 se
   <img src="https://skills.syvixor.com/api/icons?i=rabbitmq" width="40" height="40"/> &nbsp;
   <img src="https://skills.syvixor.com/api/icons?i=elasticsearch" width="40" height="40"/> &nbsp;
   <img src="https://skills.syvixor.com/api/icons?i=grafana" width="40" height="40"/>
+  <img src="https://skills.syvixor.com/api/icons?i=prometheus" width="40" height="40"/>
   <img src="https://skills.syvixor.com/api/icons?i=jest" width="40" height="40"/> &nbsp;
   <img src="https://skills.syvixor.com/api/icons?i=redis" width="40" height="40"/> &nbsp;
   <img src="https://skills.syvixor.com/api/icons?i=grpc" width="40" height="40"/>
