@@ -46,4 +46,3 @@ As a winner of the **Republican Olympiad in Informatics (2023–2024 season)**, 
   <img src="https://skills.syvixor.com/api/icons?i=redis" width="40" height="40"/> &nbsp;
   <img src="https://skills.syvixor.com/api/icons?i=grpc" width="40" height="40"/> &nbsp;
 </p>
-
