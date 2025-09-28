@@ -27,6 +27,7 @@ As a winner of the **Republican Olympiad in Informatics (2023–2024 season)**, 
   <img src="https://skills.syvixor.com/api/icons?i=cpp" width="40" height="40"/> &nbsp;
   <img src="https://skills.syvixor.com/api/icons?i=typescript" width="40" height="40"/> &nbsp;
   <img src="https://skills.syvixor.com/api/icons?i=java" width="40" height="40"/> &nbsp;
+  <img src="https://skills.syvixor.com/api/icons?i=go" width="40" height="40"/> &nbsp;
   <img src="https://skills.syvixor.com/api/icons?i=react" width="40" height="40"/> &nbsp;
   <img src="https://skills.syvixor.com/api/icons?i=expo" width="40" height="40"/> &nbsp;
   <img src="https://skills.syvixor.com/api/icons?i=nodejs" width="40" height="40"/> &nbsp;
