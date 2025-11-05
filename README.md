@@ -50,4 +50,3 @@ As a winner of the **Republican Olympiad in Informatics (2023–2024 season)**, 
   <img src="https://skills.syvixor.com/api/icons?i=aws" width="40" height="40"/> &nbsp;
   <img src="https://skills.syvixor.com/api/icons?i=jira" width="40" height="40"/> &nbsp;
 </p>
-
