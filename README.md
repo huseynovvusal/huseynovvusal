@@ -21,7 +21,7 @@ As a winner of the **Republican Olympiad in Informatics (2023–2024 season)**, 
 
 ---
 
-### 🛠 Tech Stack
+### Tech Stack
 
 <p align="left">
   <img src="https://skills.syvixor.com/api/icons?i=python" width="40" height="40"/> &nbsp;
