@@ -1,4 +1,4 @@
-### ⚡ About Me
+### About Me
 
 I am a self-taught software engineer and instructor with 5 years of experience in *software development*, beginning at the age of 13. Skilled in mobile and web development, specializing in ```React Native```, ```Node.js```, ```Golang```, and ```React.js```, with a proven ability to deliver scalable and user-focused solutions. 
 
@@ -6,7 +6,7 @@ As a winner of the **Republican Olympiad in Informatics (2023–2024 season)**, 
 
 ---
 
-### 🔗 Social Links
+### Social Links
 
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://huseynovvusal.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/huseynovvusal/)
