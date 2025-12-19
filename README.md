@@ -23,30 +23,28 @@ I am the **winner of the Republican Olympiad in Informatics (2023–2024 season)
 
 ### Tech Stack
 
-  <img src="https://skills.syvixor.com/api/icons?i=python" width="40" height="40"/> &nbsp;
-  <img src="https://skills.syvixor.com/api/icons?i=cpp" width="40" height="40"/> &nbsp;
-  <img src="https://skills.syvixor.com/api/icons?i=typescript" width="40" height="40"/> &nbsp;
-  <img src="https://skills.syvixor.com/api/icons?i=java" width="40" height="40"/> &nbsp;
-  <img src="https://skills.syvixor.com/api/icons?i=go" width="40" height="40"/> &nbsp;
-  <img src="https://skills.syvixor.com/api/icons?i=react" width="40" height="40"/> &nbsp;
-  <img src="https://skills.syvixor.com/api/icons?i=expo" width="40" height="40"/> &nbsp;
-  <img src="https://skills.syvixor.com/api/icons?i=nodejs" width="40" height="40"/> &nbsp;
-  <img src="https://skills.syvixor.com/api/icons?i=expressjs" width="40" height="40"/> &nbsp;
-  <img src="https://skills.syvixor.com/api/icons?i=springboot" width="40" height="40"/> &nbsp;
-  <img src="https://skills.syvixor.com/api/icons?i=mongodb" width="40" height="40"/> &nbsp;
-  <img src="https://skills.syvixor.com/api/icons?i=firebase" width="40" height="40"/> &nbsp;
-  <img src="https://skills.syvixor.com/api/icons?i=nestjs" width="40" height="40"/> &nbsp;
-  <img src="https://skills.syvixor.com/api/icons?i=postgresql" width="40" height="40"/> &nbsp;
-  <img src="https://skills.syvixor.com/api/icons?i=graphql" width="40" height="40"/> &nbsp;
-  <img src="https://skills.syvixor.com/api/icons?i=docker" width="40" height="40"/> &nbsp;
-  <img src="https://skills.syvixor.com/api/icons?i=rabbitmq" width="40" height="40"/> &nbsp;
-  <img src="https://skills.syvixor.com/api/icons?i=elasticsearch" width="40" height="40"/> &nbsp;
-  <!-- <img src="https://skills.syvixor.com/api/icons?i=grafana" width="40" height="40"/> &nbsp;
-  <img src="https://skills.syvixor.com/api/icons?i=prometheus" width="40" height="40"/> &nbsp; -->
-  <img src="https://skills.syvixor.com/api/icons?i=jest" width="40" height="40"/> &nbsp;
-  <img src="https://skills.syvixor.com/api/icons?i=redis" width="40" height="40"/> &nbsp;
-  <img src="https://skills.syvixor.com/api/icons?i=grpc" width="40" height="40"/> &nbsp;
-  <img src="https://skills.syvixor.com/api/icons?i=aws" width="40" height="40"/> &nbsp;
-  <img src="https://skills.syvixor.com/api/icons?i=numpy" width="40" height="40"/> &nbsp;
+<img src="https://skills.syvixor.com/api/icons?i=python" width="40" height="40"/> &nbsp;
+<img src="https://skills.syvixor.com/api/icons?i=cpp" width="40" height="40"/> &nbsp;
+<img src="https://skills.syvixor.com/api/icons?i=typescript" width="40" height="40"/> &nbsp;
+<img src="https://skills.syvixor.com/api/icons?i=java" width="40" height="40"/> &nbsp;
+<img src="https://skills.syvixor.com/api/icons?i=go" width="40" height="40"/> &nbsp;
+<img src="https://skills.syvixor.com/api/icons?i=react" width="40" height="40"/> &nbsp;
+<img src="https://skills.syvixor.com/api/icons?i=expo" width="40" height="40"/> &nbsp;
+<img src="https://skills.syvixor.com/api/icons?i=nodejs" width="40" height="40"/> &nbsp;
+<img src="https://skills.syvixor.com/api/icons?i=expressjs" width="40" height="40"/> &nbsp;
+<img src="https://skills.syvixor.com/api/icons?i=springboot" width="40" height="40"/> &nbsp;
+<img src="https://skills.syvixor.com/api/icons?i=mongodb" width="40" height="40"/> &nbsp;
+<img src="https://skills.syvixor.com/api/icons?i=firebase" width="40" height="40"/> &nbsp;
+<img src="https://skills.syvixor.com/api/icons?i=nestjs" width="40" height="40"/> &nbsp;
+<img src="https://skills.syvixor.com/api/icons?i=postgresql" width="40" height="40"/> &nbsp;
+<img src="https://skills.syvixor.com/api/icons?i=graphql" width="40" height="40"/> &nbsp;
+<img src="https://skills.syvixor.com/api/icons?i=docker" width="40" height="40"/> &nbsp;
+<img src="https://skills.syvixor.com/api/icons?i=rabbitmq" width="40" height="40"/> &nbsp;
+<img src="https://skills.syvixor.com/api/icons?i=elasticsearch" width="40" height="40"/> &nbsp;
+<img src="https://skills.syvixor.com/api/icons?i=jest" width="40" height="40"/> &nbsp;
+<img src="https://skills.syvixor.com/api/icons?i=redis" width="40" height="40"/> &nbsp;
+<img src="https://skills.syvixor.com/api/icons?i=grpc" width="40" height="40"/> &nbsp;
+<img src="https://skills.syvixor.com/api/icons?i=aws" width="40" height="40"/> &nbsp;
+<img src="https://skills.syvixor.com/api/icons?i=numpy" width="40" height="40"/> &nbsp;
 <img src="https://skills.syvixor.com/api/icons?i=pandas" width="40" height="40"/> &nbsp;
 <img src="https://skills.syvixor.com/api/icons?i=langchain" width="40" height="40"/> &nbsp;
