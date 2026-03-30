@@ -25,7 +25,6 @@ I am the **winner of the Republican Olympiad in Informatics (2023–2024 season)
 
 <img src="https://skills.syvixor.com/api/icons?i=python" width="40" height="40" alt="Python"/> &nbsp;
 <img src="https://skills.syvixor.com/api/icons?i=typescript" width="40" height="40" alt="TypeScript"/> &nbsp;
-<img src="https://skills.syvixor.com/api/icons?i=java" width="40" height="40" alt="Java"/> &nbsp;
 <img src="https://skills.syvixor.com/api/icons?i=go" width="40" height="40" alt="Go"/> &nbsp;
 <img src="https://skills.syvixor.com/api/icons?i=cpp" width="40" height="40" alt="C++"/> &nbsp;
 <img src="https://skills.syvixor.com/api/icons?i=react" width="40" height="40" alt="React"/> &nbsp;
@@ -34,7 +33,6 @@ I am the **winner of the Republican Olympiad in Informatics (2023–2024 season)
 <img src="https://skills.syvixor.com/api/icons?i=expressjs" width="40" height="40" alt="Express.js"/> &nbsp;
 <img src="https://skills.syvixor.com/api/icons?i=nestjs" width="40" height="40" alt="NestJS"/> &nbsp;
 <img src="https://skills.syvixor.com/api/icons?i=django" width="40" height="40" alt="Django"/> &nbsp;
-<img src="https://skills.syvixor.com/api/icons?i=springboot" width="40" height="40" alt="Spring Boot"/> &nbsp;
 <img src="https://skills.syvixor.com/api/icons?i=postgresql" width="40" height="40" alt="PostgreSQL"/> &nbsp;
 <img src="https://skills.syvixor.com/api/icons?i=mongodb" width="40" height="40" alt="MongoDB"/> &nbsp;
 <img src="https://skills.syvixor.com/api/icons?i=firebase" width="40" height="40" alt="Firebase"/> &nbsp;
