@@ -18,34 +18,3 @@ I am the **winner of the Republican Olympiad in Informatics (2023–2024 season)
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/26393741/vusal-huseynov)
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/huseynovvusal)
 [![Leetcode](https://img.shields.io/badge/Leetcode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/huseynovvusal/)
-
----
-
-### Tech Stack
-
-<table>
-  <tr>
-    <td align="center"><img src="https://skills.syvixor.com/api/icons?i=python" width="40" height="40" alt="Python"/></td>
-    <td align="center"><img src="https://skills.syvixor.com/api/icons?i=typescript" width="40" height="40" alt="TypeScript"/></td>
-    <td align="center"><img src="https://skills.syvixor.com/api/icons?i=go" width="40" height="40" alt="Go"/></td>
-    <td align="center"><img src="https://skills.syvixor.com/api/icons?i=cpp" width="40" height="40" alt="C++"/></td>
-    <td align="center"><img src="https://skills.syvixor.com/api/icons?i=react" width="40" height="40" alt="React"/></td>
-    <td align="center"><img src="https://skills.syvixor.com/api/icons?i=expo" width="40" height="40" alt="Expo"/></td>
-    <td align="center"><img src="https://skills.syvixor.com/api/icons?i=nodejs" width="40" height="40" alt="Node.js"/></td>
-    <td align="center"><img src="https://skills.syvixor.com/api/icons?i=expressjs" width="40" height="40" alt="Express.js"/></td>
-    <td align="center"><img src="https://skills.syvixor.com/api/icons?i=nestjs" width="40" height="40" alt="NestJS"/></td>
-    <td align="center"><img src="https://skills.syvixor.com/api/icons?i=django" width="40" height="40" alt="Django"/></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://skills.syvixor.com/api/icons?i=postgresql" width="40" height="40" alt="PostgreSQL"/></td>
-    <td align="center"><img src="https://skills.syvixor.com/api/icons?i=mongodb" width="40" height="40" alt="MongoDB"/></td>
-    <td align="center"><img src="https://skills.syvixor.com/api/icons?i=firebase" width="40" height="40" alt="Firebase"/></td>
-    <td align="center"><img src="https://skills.syvixor.com/api/icons?i=redis" width="40" height="40" alt="Redis"/></td>
-    <td align="center"><img src="https://skills.syvixor.com/api/icons?i=elasticsearch" width="40" height="40" alt="Elasticsearch"/></td>
-    <td align="center"><img src="https://skills.syvixor.com/api/icons?i=graphql" width="40" height="40" alt="GraphQL"/></td>
-    <td align="center"><img src="https://skills.syvixor.com/api/icons?i=grpc" width="40" height="40" alt="gRPC"/></td>
-    <td align="center"><img src="https://skills.syvixor.com/api/icons?i=rabbitmq" width="40" height="40" alt="RabbitMQ"/></td>
-    <td align="center"><img src="https://skills.syvixor.com/api/icons?i=docker" width="40" height="40" alt="Docker"/></td>
-    <td align="center"><img src="https://skills.syvixor.com/api/icons?i=jest" width="40" height="40" alt="Jest"/></td>
-  </tr>
-</table>
